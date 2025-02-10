@@ -12,7 +12,7 @@ Welcome to the Air Quality Prediction project! This repository contains Jupyter 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
